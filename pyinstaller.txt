@@ -1,2 +1,0 @@
-pyinstaller --onefile --add-data "FIBROMIALGIA/Image;Image" --add-data "FIBROMIALGIA/token.pickle;FIBROMIALGIA" --add-data "FIBROMIALGIA/fibromialgia.json;FIBROMIALGIA" --add-data "FIBROMIALGIA/version.txt;FIBROMIALGIA" --add-data "FIBROMIALGIA/imagens.db;FIBROMIALGIA" --name FIBROMIALGIA -w FIBROMIALGIA/_Init_.py
-
