@@ -1,5 +1,10 @@
+# Ignora a pasta 'fibromialgia' inteira
 fibromialgia/
+
+# Ignora a pasta 'DataBase' inteira
 DataBase/
-Outros_testes.py/
-teste.py/
-teste2.py/
+
+# Ignora arquivos específicos
+Outros_testes.py
+teste.py
+teste2.py
